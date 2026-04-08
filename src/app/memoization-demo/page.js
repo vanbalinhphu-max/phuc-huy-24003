@@ -9,6 +9,7 @@ async function fetchData() {
 }
 
 
+//hehe
 const MemoizationPage = async () => {
   const data1 = await fetchData();
   const data2 = await fetchData();
